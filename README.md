@@ -1,2 +1,1 @@
-# Hello-worldd
-my first reportttt
+print("hello world");
